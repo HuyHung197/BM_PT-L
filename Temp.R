@@ -12,6 +12,8 @@ install.packages("rmarkdown")
 install.packages("tidyverse")
 install.packages("magrittr")
 
+
+Hung
 # applying the library in this working file: sử dụng lệnh library() để sử dụng thư viện code trong file làm việc hiện tại
 # 1 cách khác là sử dụng packages tab ở cửa sổ góc dưới bên phải
 library(datasauRus)
